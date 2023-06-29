@@ -1,0 +1,13 @@
+ABSTRACCIÓN:
+-Productos para vender en un array de empanadas
+-Usar un método para filtrar
+-Tener un carrito para agregar las empanadas
+-Sumatoria de prductos elegidos en carrito
+-Sumatoria de monto total de la compra total
+-Agregar cards por cada empanada
+-Instanciar objetos para la venta
+-Instanciar objetos para el carrito de compra
+-Un array del carrito con información volcado por el usuario
+-Utilizar fetch para trabajar asíncronamente
+-Utilizar Sweet alert y Toastify para darle estilo a las alertas
+-Utilizar Bootstrap para las Cards

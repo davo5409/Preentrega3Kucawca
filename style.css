@@ -1,3 +1,7 @@
+body{
+    background-color: #232323;
+}
+
 #raiz{
     display:flex;
     flex-wrap: wrap;
@@ -6,11 +10,20 @@
     
 }
 
-.sig{
-    color:red;
+#carrito{
+    background-color: rgb(206, 68, 68);
+    color: white;
+    border-radius: 2px solid white;
+    text-align: center;
+    
+}
+#carrito:hover{
+    background-color: red;
+    
 }
 
 h1{
+    color:white;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
